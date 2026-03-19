@@ -1,5 +1,5 @@
 #!/bin/bash
-set -Eueo pipefail
+set -e
 
 if [ $# -eq 0 ]; then
     echo "Usage: $0 {build|start|stop|logs|status}"
