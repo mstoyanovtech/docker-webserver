@@ -2,7 +2,7 @@
 A simple web server running in Docker that displays the container hostname and current date/time.
 
 ## Requirements                                                                                                    
-- Docker (with Compose plugin)     
+- Docker
 
 ## Design decisions
 
